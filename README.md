@@ -1,2 +1,2 @@
 # ProgrammingWithJava
-Complete java programming repo with include all 
+Complete java programming repo 
