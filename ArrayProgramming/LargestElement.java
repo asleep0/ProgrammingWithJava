@@ -13,7 +13,6 @@ class LargestElement{
             if(arr[i]>max){
                 max=arr[i];
             }
-            
         }
         return max;
         
